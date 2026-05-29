@@ -4,6 +4,11 @@
 
 ---
 
+> 👥 **Co-authorship & Portfolio Showcase Note:**  
+> This repository is a personalized showcase of the high-performance computing infrastructure, C++17 optimization, CUDA/GPU acceleration, and Docker containerization I designed. The scientific physics foundations and original Python prototype were developed in equal collaboration with my colleague **[Juan Montoya (@JuanJ27)](https://github.com/JuanJ27)** for the Computational Physics and Statistical Physics courses at *Universidad de Antioquia (UdeA)*.  
+> 🔗 *Original joint collaborative repository:* [JuanJ27/Modelo_ising](https://github.com/JuanJ27/Modelo_ising)
+
+---
 [Leer en Español 🇪🇸](./README.es.md)
 
 ## 💡 The Concept
